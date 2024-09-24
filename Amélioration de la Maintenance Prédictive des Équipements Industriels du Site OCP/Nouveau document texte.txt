@@ -1,0 +1,5 @@
+Ce projet vise à améliorer la maintenance prédictive des équipements industriels au sein du site OCP de Khouribga en automatisant la détection des défauts de roulements. En utilisant des techniques avancées de machine learning et d'analyse des vibrations, l'objectif est de prévenir les pannes et d'optimiser la maintenance des machines en identifiant de manière proactive les défaillances potentielles des roulements.
+
+Le projet a permis de développer un modèle capable d'analyser les données de vibration, de détecter les anomalies et de fournir des prédictions sur les niveaux de vibrations des machines tournantes, offrant ainsi une solution efficace pour renforcer la fiabilité des équipements industriels et réduire les coûts de maintenance.
+
+Le projet est actuellement en cours d'amélioration pour intégrer de nouvelles fonctionnalités et affiner la précision des prédictions.
